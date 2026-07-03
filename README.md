@@ -1,2 +1,3 @@
 # NepNews2RSS
-Convers Nepali news websites to rss feeds.
+Converts Nepali news websites to rss feeds.
+Currently Only for The Himalayan News and The Kathmandu Post
