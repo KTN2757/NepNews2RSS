@@ -13,7 +13,6 @@ def run():
         "https://thehimalayantimes.com/morearticles/Nepal",
         "https://thehimalayantimes.com/morearticles/Kathmandu",
     ]
-
     rss_gen("world", urls[0])
     rss_gen("nepal", urls[1])
     rss_gen("kathmandu", urls[2])

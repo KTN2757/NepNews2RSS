@@ -13,6 +13,7 @@ def run():
         "https://kathmandupost.com/national",
         "https://kathmandupost.com/valley",
     ]
+
     rss_gen("politics", urls[0])
     rss_gen("national", urls[1])
     rss_gen("valley", urls[2])
